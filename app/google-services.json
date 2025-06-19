@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "59927292615",
+    "firebase_url": "https://my-portfolio-9dca4-default-rtdb.firebaseio.com",
+    "project_id": "my-portfolio-9dca4",
+    "storage_bucket": "my-portfolio-9dca4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59927292615:android:9a58127f25618a9152ece2",
+        "android_client_info": {
+          "package_name": "com.mehru.myportfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5I7XZt6NAR8ae9517XW7kJvs3mmW-ugA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

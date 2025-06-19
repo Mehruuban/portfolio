@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#FFFFFF">
+
+    <EditText
+        android:id="@+id/editCertificationTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Certificate Title"
+        android:padding="12dp"
+        android:background="@android:drawable/edit_text" />
+
+    <EditText
+        android:id="@+id/editCertificationIssuer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Issued By"
+        android:padding="12dp"
+        android:layout_marginTop="12dp"
+        android:background="@android:drawable/edit_text" />
+
+    <Button
+        android:id="@+id/btnSubmitCertification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Certification"
+        android:layout_marginTop="16dp"
+        android:background="#1F8A70"
+        android:textColor="#FFFFFF" />
+</LinearLayout>

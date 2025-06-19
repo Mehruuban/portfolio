@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_primary">#1E1F28</color>
+    <color name="accent_purple">#6C63FF</color>
+    <color name="textfield_bg">#2F303A</color>
+    <color name="textfield_border">#3A3B45</color>
+    <color name="hint_text">#A0A0A0</color>
+    <color name="error_red">#FF6B6B</color>
+
+    <color name="bgColor">#043C3C</color>
+    <color name="statusBarColor">#0D7373</color>
+
+</resources>
