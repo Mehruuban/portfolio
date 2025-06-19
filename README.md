@@ -19,9 +19,19 @@ A simple, modern **Android Portfolio App** developed in **Kotlin**, where users 
 
 | Home Screen | Skills | Projects | Certifications |
 |-------------|--------|----------|----------------|
-| ![Home](assets/home.png) | ![Skills](assets/skills.png) | ![Projects](assets/projects.png) | ![Certifications](assets/certifications.png) |
+![Image](https://github.com/user-attachments/assets/0ce5cfc4-fe62-4fea-ae57-975358c3e060)
 
-> *Note: Replace image links above with actual screenshots from your app inside the `/assets` folder.*
+![Image](https://github.com/user-attachments/assets/a016a1b2-b93a-4283-9821-b82456fddee1)
+
+![Image](https://github.com/user-attachments/assets/8502aede-dfeb-42bf-b449-b9a1b473943e)
+
+![Image](https://github.com/user-attachments/assets/e37e8456-e512-4f46-8ad8-60bee44774a0)
+
+![Image](https://github.com/user-attachments/assets/2d92f4c5-b96d-4816-a226-9b7c049d4a1f)
+
+![Image](https://github.com/user-attachments/assets/e746eac4-4945-4b08-b6c6-83db10047bb2)
+
+<!-- Failed to upload "WhatsApp Image 2025-06-19 at 17.24.24_f655f4ae.jpg" -->
 
 ---
 
