@@ -16,9 +16,6 @@ A simple, modern **Android Portfolio App** developed in **Kotlin**, where users 
 ---
 
 ## 📷 Screenshots
-
-| Home Screen | Skills | Projects | Certifications |
-|-------------|--------|----------|----------------|
 ![Image](https://github.com/user-attachments/assets/0ce5cfc4-fe62-4fea-ae57-975358c3e060)
 
 ![Image](https://github.com/user-attachments/assets/a016a1b2-b93a-4283-9821-b82456fddee1)
